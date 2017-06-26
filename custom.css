@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css?family=Playball');
+.item{
+	width: auto;
+	height: auto;
+}
+
+}
+#carousel-example-generic {
+
+	height: 100vh;
+}
+
+body {
+	background-color: black;
+}
+
+.dropup{
+	position: right;
+}
+h1{
+	font-family: 'Playball', cursive;
+
+}
+h2{
+	font-family: 'Playball', cursive;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+ 
+}
+
+.navbar li { color: #000 } 
